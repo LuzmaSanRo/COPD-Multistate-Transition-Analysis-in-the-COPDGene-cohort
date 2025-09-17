@@ -2,7 +2,7 @@
 # - This script performs cleaning, recoding, MSM fitting, and transition visualization.
 # - For reproducibility and clarity, extensive comments and improved structure are provided.
 # - NOTE: Data files referenced (COPDGene_P1P2P3_SM_NS_Long_Nov21.csv, COPDGene_VitalStatus_SM_NS_Oct22.csv) 
-#     use the original file name as provided by the COPDGene Study. These dat files are not publicly available and 
+#     use the original file name as provided by the COPDGene Study. These data files are not publicly available and 
 #     require appropriate access and approvals from the COPDGene Study.
 
 #### --- Libraries --- ####
